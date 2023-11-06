@@ -1,1 +1,0 @@
-export const URL = "https://socialmediaappbackend-tooo.onrender.com";
